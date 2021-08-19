@@ -1,0 +1,10 @@
+testCases/TC_002_Login.class
+pageObjects/LoginPage.class
+pageObjects/HomePage.class
+pageObjects/MyAccountPage.class
+utilities/ExtentReportManager.class
+testCases/TC_001_AccountRegistration.class
+testCases/TC_003_LoginDDT.class
+testBase/BaseClass.class
+utilities/XLUtility.class
+pageObjects/AccountRegistrationPage.class
